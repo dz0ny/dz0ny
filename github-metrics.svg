@@ -379,9 +379,9 @@
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.2244897959183674 1.7,3.2244897959183674 z"/>
                             </g>
                             <g transform="translate(-5.1, 6.795918367346939)">
-                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.204081632653061 0,3.2040816326530615 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2040816326530615 1.7,4.204081632653061 z"/>
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.204081632653061 0,3.2040816326530615 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2040816326530615 1.7,4.204081632653061 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.387755102040817)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1346,7 +1346,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jan 2022, 23:26:32 (timezone Europe/Ljubljana) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 19 Jan 2022, 00:18:59 (timezone Europe/Ljubljana) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
